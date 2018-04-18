@@ -1,5 +1,3 @@
-File 'Submitted.ipynb' contains more explanations. File 'CreditCardFraud.ipynb' contains some more plots.
-
 Kaggle project.
 https://www.kaggle.com/dalpozz/creditcardfraud
 
